@@ -21,7 +21,7 @@ import re
 Load the Dataset
 """
 
-df = pd.read_csv("https://statso.io/wp-content/uploads/2024/08/chatgpt_reviews.csv")
+df = pd.read_csv("URL")
 df.info()
 
 """Standardize Column Names"""
